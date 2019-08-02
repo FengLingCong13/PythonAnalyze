@@ -2,7 +2,7 @@
 
  容器主要分为Collection和Map两种，Collection主要用于存储对象的集合，而Map主要存储着键值对的映射表
 ### -&nbsp;&nbsp;&nbsp;&nbsp;**Collection**
-![08cdec4609aa91aaf32a36a3e9b888f9.png](en-resource://database/1093:1)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190801230729141.png)
 
 
 
