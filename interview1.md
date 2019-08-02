@@ -21,7 +21,7 @@
  - PriorityQueue：基于堆结构实现，可以用它来实现优先队列
  - LinkedList：可以用它来实现双向队列。
  ### -&nbsp;&nbsp;&nbsp;&nbsp;**Map**
-![d8a0c7826c5fb1df274b9a60b86d2c8a.png](en-resource://database/1095:1)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190801232854703.png)
 
 
  - TreeMap：基于红黑树实现
@@ -45,7 +45,7 @@ Collection<String> str = new ArrayList<>();
             System.out.println(temp);
         }
 ```
- - Java中的增强for循环的实现原理与坑可以参见推文：[Java中的增强for循环的底层实现原理与坑](https://blog.csdn.net/weixin_41799019/article/details/98112586)
+ - Java中的增强for循环的实现原理与坑可以参见推文：[Java中的增强for循环的底层实现原理与坑]![在这里插入图片描述](https://img-blog.csdnimg.cn/201908012339275.png)
 ### -&nbsp;&nbsp;&nbsp;&nbsp;**适配器模式**
  - 举其中一个例子，Arrays.asList()方法就使用了适配器模式
  - 使用Arrays.asList()方法可以很方便地将数据转换为集合，但是转换后的集合不能使用修改的相关操作（add，remove，clear）等
